@@ -32,7 +32,7 @@ form {
     margin-bottom: 20px;
 }
 
-.user_country {
+.form-control {
   border: none;
     background-color: #FFF2E2;
     height: auto;
@@ -127,7 +127,7 @@ a {
     color: #333;
   }
   .popup .close:hover {
-    color: #06D85F;
+    color: rgb(225, 192, 116);
   }
   .popup .content {
     max-height: 50%;
@@ -147,10 +147,10 @@ a {
 #check_button {
     font-family: 'Nunito';
     padding: 10px;
-    background-color: #06D85F;
+    background-color: #fcd95a;
     font-size: 20px;
     padding: 15px 130px;
-    border: solid #06D85F;
+    border: solid #fcd95a;
     border-radius: 10px;
     text-align: center;
     margin-top: 30px;
